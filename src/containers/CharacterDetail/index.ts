@@ -1,0 +1,1 @@
+export { CharacterDetailContainer } from './CharacterDetail';

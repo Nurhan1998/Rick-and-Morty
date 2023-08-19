@@ -1,0 +1,1 @@
+export { CharacterListContainer } from './CharacterList';

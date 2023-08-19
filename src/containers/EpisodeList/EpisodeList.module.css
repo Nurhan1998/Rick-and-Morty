@@ -1,0 +1,12 @@
+.root {
+  padding-top: 24px;
+  padding-bottom: 40px;
+}
+
+.pagination {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 24px;
+}
